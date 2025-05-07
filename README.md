@@ -18,7 +18,7 @@ This script trains a custom tokenizer using the [Hugging Face Tokenizers](https:
 
 Install dependencies:
 ```sh
-pip install tokenizers
+pip install -r requirements.txt
 ```
 
 ## Usage
